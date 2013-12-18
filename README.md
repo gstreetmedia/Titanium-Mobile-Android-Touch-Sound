@@ -13,6 +13,7 @@ How To:
 var label = Ti.UI.createLabel({options....});
 
 var touchSound = require('com.gstreetmedia.androidtouchsound');
+
 touchSound.disable(label);
 
 Enough said.
